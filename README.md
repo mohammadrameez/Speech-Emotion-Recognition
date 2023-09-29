@@ -12,14 +12,12 @@ Dataset :- https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-
 
 # Feature Extraction:
   + Librosa can be used to extract various audio features from these segmented frames. Some commonly used features for emotion recognition include:
-
-# Mel-Frequency Cepstral Coefficients (MFCCs)
-
-  + Spectral contrast
-  + Chroma feature
-  + Energy
-  + Zero-crossing rate
-  + Pitch-related features
+      + Mel-Frequency Cepstral Coefficients (MFCCs)
+      + Spectral contrast
+      + Chroma feature
+      + Energy
+      + Zero-crossing rate
+      + Pitch-related features
 
 # Feature Normalization:
   + Make sure to standardize the extracted features, ensuring they share similar scales. This step is crucial as it significantly boosts the performance of machine learning models.
