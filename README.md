@@ -2,9 +2,10 @@
 
 Speech emotion recognition is the process of deciphering emotional states or sentiments from speech signals. Librosa, a popular Python library, is typically employed for audio analysis and extracting features from audio signals. Although Librosa primarily concentrates on music analysis, it can be adapted to address certain aspects of speech emotion recognition as well.
 
-@ Dataset :- https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+Dataset :- https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
-+ Let's explore the process of Speech Emotion Recognition using Librosa:
+
+**Let's explore the process of Speech Emotion Recognition using Librosa :**
 
 # Data Collection and Preprocessing:
   + We begin by collecting speech samples labeled with emotions. The audio data undergoes preprocessing, including consistent sampling rates, noise removal, and segmentation into smaller frames (usually around 20-30 ms each).
