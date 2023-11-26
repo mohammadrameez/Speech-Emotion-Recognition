@@ -30,7 +30,7 @@ Dataset :- https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-
 
 # Fine-Tuning and Optimization:
   + Try out various combinations of features, different types of models, and tweak the model settings to enhance its performance. Experimenting with elements like cross-validation can provide insights into how well your model can adapt to new data.
-  
+   
 # Deployment:
   + After achieving a satisfying model, you're ready to deploy it for predicting emotions in new, unheard speech samples.
  
